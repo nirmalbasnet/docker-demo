@@ -1,1 +1,3 @@
-modules
+venv
+**/__pycache__/
+*.pyc
